@@ -1,2 +1,2 @@
 # Python-skills-Demo
-This is a demonstration of project using sample data from the 2025 Renewed Hope Employment Initiative of the National Directorate of Employment,NDE
+A demonstration project designed to showcase foundational data analytics skills in Python using Jupyter Notebook, aimed at helping beginners understand core data management principles with sample datasets.
